@@ -1,5 +1,11 @@
 joona:
  first_name: "Joona"
  last_name: "Tuunanen"
- profile_name: "joonatuu"
+ profile_name: "joona"
  email: "joona@dublao.com"
+
+jim:
+ first_name: "Jim"
+ last_name: "Haukka"
+ profile_name: "jimhaukka"
+ email: "jim@dublao.com"
